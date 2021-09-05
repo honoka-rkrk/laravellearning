@@ -148,6 +148,8 @@ return [
  
     'attributes' => [
         'password'=>'パスワード', //追記
+        'email'=>'メールアドレス',
+        'caution'=>'注意事項'
     ],
  
 ];
